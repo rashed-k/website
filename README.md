@@ -6,6 +6,7 @@ This repository contains the assets required to build the [Kubernetes website an
 
 - [Contributing to the docs](#contributing-to-the-docs)
 - [Localization ReadMes](#localization-readmemds)
+- [test-project]
 
 ## Using this repository
 
